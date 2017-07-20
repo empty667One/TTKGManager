@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (3.1.5)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SnapKit (0.15.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.1.0)
+  - SDCycleScrollView (~> 1.65)
+  - SDWebImage (~> 3.8.1)
+  - SnapKit (~> 0.15.0)
+  - SwiftyJSON (~> 2.3.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 1634bd0014585fefbe566ff24bf7ec0f8fdfe52a
+
+COCOAPODS: 1.0.1
